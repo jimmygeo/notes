@@ -1,5 +1,5 @@
 ---
-title: "Visualize Neural Network Architecutre"
+title: "Visualize Neural Network Architecture"
 author: "Chris Albon"
 date: 2017-12-20T11:53:49-07:00
 description: "How to visualize neural network architecture in Python."
